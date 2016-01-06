@@ -4,4 +4,4 @@
 一个在线播放视频的库,目前只支持MP4格式：[官网](http://components.xamarin.com/view/vitamiobinding)
 
 ———————————-
-# 上传的项目运行不了,官网自行下砸,要部署iis
+# 上传的项目运行不了,官网自行下载,要部署iis
